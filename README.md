@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FabricioFodi
-
-- 🌱 I’m currently learning Java
+- 👋 Olá, me chamo Fabricio Fodi
+  
+- 🌱 Atualmente Aprendendo Java
 
 
 <!---
