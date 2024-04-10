@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Fabricio Fodi
   
-- 🌱 Atualmente Aprendendo Java
+- 🌱 Atualmente Aprendendo Java e Python
 
 
 <!---
