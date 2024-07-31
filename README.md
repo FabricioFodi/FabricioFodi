@@ -1,6 +1,8 @@
-- 👋 Olá, me chamo Fabricio Fodi
+- 👋 Olá, me chamo Fabricio Fodi;
+
+- 👨‍💻 Conhecimento em Java, C e Python;
   
-- 🌱 Atualmente Aprendendo Java e Python
+- 🌱 Atualmente Aprendendo Javascript;
 
 
 <!---
