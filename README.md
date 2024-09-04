@@ -2,7 +2,7 @@
 
 - 👨‍💻 Conhecimento em Java, C e Python;
   
-- 🌱 Atualmente Aprendendo Javascript;
+- 🌱 Atualmente Aprendendo HTML, CSS e Javascript;
 
 
 <!---
