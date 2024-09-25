@@ -4,7 +4,7 @@
   
 - 🌱 Atualmente Aprendendo Frontend com HTML, CSS e Javascript;
 
-- ![](https://komarev.com/ghpvc/?username=FabricioFodi&color=blueviolet&style=flat&label=Visitas+ao+Perfil&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=FabricioFodi&color=blueviolet&style=flat&label=Visitas+ao+Perfil&abbreviated=true)
 
 <!---
 FabricioFodi/FabricioFodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
