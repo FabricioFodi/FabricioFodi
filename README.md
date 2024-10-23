@@ -2,7 +2,7 @@
 
 - 👨‍💻 Conhecimento em Java, C e Python;
   
-- 🌱 Atualmente Aprendendo Frontend com HTML, CSS e Javascript;
+- 🌱 Atualmente Aprendendo Frontend com HTML, CSS, Javascript e NodeJS;
 
 
 <!---
