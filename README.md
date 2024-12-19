@@ -2,7 +2,7 @@
 
 - 👨‍💻 Conhecimento em Java, C e Python;
   
-- 🌱 Atualmente Aprendendo Frontend com HTML, CSS, Javascript e NodeJS;
+- 🌱 Atualmente Aprendendo Frontend com Vue.js, Node.js e MySQL;
 
 
 <!---
